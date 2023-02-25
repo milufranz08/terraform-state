@@ -1,2 +1,2 @@
-# Serverless API
-Example of a serverless API using Terraform, AWS, and Golang.
+# Terraform State
+Personal terraform state.
